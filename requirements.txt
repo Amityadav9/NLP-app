@@ -1,0 +1,8 @@
+streamlit
+spacy
+textblob
+gensim
+sumy
+SpeechRecognition
+speech_recognition
+pyaudio
