@@ -4,5 +4,4 @@ textblob
 gensim
 sumy
 SpeechRecognition
-speech_recognition
 pyaudio
