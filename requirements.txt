@@ -4,4 +4,6 @@ textblob
 gensim
 sumy
 SpeechRecognition
-pyaudio
+PyAudio == 0.2.11
+gunicorn == 19.9.0
+Werkzeug == 0.15.1
